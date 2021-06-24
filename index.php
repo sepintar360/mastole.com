@@ -11,6 +11,6 @@ function bacaHTML($url){
      return $hasil;
 }
  
-echo bacaHTML('https://www.mastole.com');
+echo bacaHTML('https://www.haruspinter.com');
  
 ?>
